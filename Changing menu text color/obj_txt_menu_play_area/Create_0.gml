@@ -1,3 +1,3 @@
-/// @description Variable
+/// @description Global variable
 
 global.changePlayTxtColor = "PURPLE"

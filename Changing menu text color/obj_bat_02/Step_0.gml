@@ -1,4 +1,4 @@
-/// @description Bat flying
+/// @description Flying bat
 
 if(mouse_y < 140 or mouse_y > 310){
 	speed	= 0
